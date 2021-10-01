@@ -1,0 +1,8 @@
+git init
+git status
+git add .
+git commit -m 'comentario'
+git remote add origin ruta de mi repositorio
+git push -u origin master
+git branch
+git pull
